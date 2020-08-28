@@ -1,0 +1,17 @@
+name = "nanx2020"
+license = "MIT"
+licenselink = "https://github.com/nanxstats/hugo-nanx2020/blob/master/LICENSE"
+description = "A Bootstrap-based minimalist theme for Hugo."
+homepage = "https://github.com/nanxstats/hugo-nanx2020"
+tags = ["bootstrap", "minimalist", "responsive", "typography"]
+min_version = 0.17
+
+[author]
+  name = "Nan Xiao"
+  homepage = "https://nanx.me"
+  repo = "https://github.com/nanxstats/hugo-nanx2020"
+
+[original]
+    name = "Nan Xiao"
+    homepage = "https://nanx.me"
+    repo = "https://github.com/nanxstats/hugo-renga"
