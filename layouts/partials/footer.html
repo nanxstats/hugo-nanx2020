@@ -43,6 +43,10 @@
                                 target="_blank">LinkedIn</a></li>
                         {{ end }}
 
+                        {{ if .Site.Params.colophon }}
+                        <li><a href="{{ .Site.Params.colophon }}">Colophon</a></li>
+                        {{ end }}
+
                         {{ if .Site.RSSLink }}
                         <li><a href="{{ .Site.RSSLink }}" class="mr-0">RSS</a></li>
                         {{ end }}
